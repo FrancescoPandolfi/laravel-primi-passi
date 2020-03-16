@@ -17,7 +17,7 @@ class HomeController extends Controller
               'year' => 2011,
               'poster' => 'https://img.discogs.com/IIcJq-QJZcaHUn0HFHDmMvB2i-w=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2940876-1308320926.jpeg.jpg'
             ],
-            [
+             [
               'title' => 'Follow The Leader',
               'author' => 'Korn',
               'year' => 1998,
